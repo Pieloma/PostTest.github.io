@@ -1,0 +1,33 @@
+{
+    "repos": [
+        {
+            "name": "Dynastic Repo",
+            "link": "https://repo.dynastic.co",
+            "desc": "A (default) repository for tweaks and themes."
+        },
+
+        {
+            "name": "Chariz Repo",
+            "link": "https://repo.chariz.com",
+            "desc": "A (default) repository for tweaks and themes."
+        },
+
+        {
+            "name": "Packix Repo",
+            "link": "https://repo.packix.com",
+            "desc": "A (default) repository for tweaks and themes."
+        },
+
+        {
+            "name": "SparkDev's Repo",
+            "link": "https://sparkdev.me",
+            "desc": "Packages belonging to the developer: @SparkDev_"
+        },
+
+        {
+            "name": "CydiaGeek's Repo",
+            "link": "https://cydiageek.yourepo.com/",
+            "desc": "Here is the CydiaGeek repo, enjoy, thanks!"
+        }
+    ]
+}

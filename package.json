@@ -1,0 +1,31 @@
+{
+    "packages": [
+        {
+            "id": "xyz.royalapps.jellyfish",
+            "name": "JellyFish",
+            "price": 1.99,
+            "repo": "https://repo.dynastic.co"
+        },
+
+        {
+            "id": "com.spark.snowboard",
+            "name": "SnowBoard",
+            "price": 0,
+            "repo": "https://sparkdev.me"
+        },
+
+        {
+            "id": "com.rileytestut.altdaemon",
+            "name": "AltDaemon",
+            "price": 0,
+            "repo": "https://repo.dynastic.co"
+        },
+
+        {
+            "id": "com.hidefleets",
+            "name": "HideFleets",
+            "price": 0,
+            "repo": "https://xpl0itu.github.io"
+        }
+    ]
+}
